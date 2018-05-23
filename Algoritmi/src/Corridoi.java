@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
-public class Esame {
+public class Corridoi {
 
 	private static Scanner sc;
 
