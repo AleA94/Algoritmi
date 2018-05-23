@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class prova {
+public class SerbatoiVicini {
 
 	public static void main(String[] args) {
 
