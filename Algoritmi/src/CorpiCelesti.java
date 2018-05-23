@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class luglio {
+public class CorpiCelesti {
 
 	public static void main(String[] args) {
 		SparseGraph<String, String> grafo = new SparseGraph<String, String>();
